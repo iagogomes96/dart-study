@@ -1,4 +1,4 @@
-import 'package:meu_app_oo/enum/tipo_notificacao.dart';
+import '../enum/tipo_notificacao.dart';
 
 class Pessoa {
   String? _nome;
